@@ -1,0 +1,7 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+untitled2,pl.session5mi637,Ejercicio5,3,70,0,10,1,19,1,6,1,1
+untitled2,pl.session5mi637,Main,4,0,0,0,2,0,2,0,2,0
+untitled2,pl.session5mi637,Ejercicio2,0,36,2,10,0,8,2,7,0,3
+untitled2,pl.session5mi637,Ejercicio3,0,31,2,8,0,8,2,5,0,2
+untitled2,pl.session5mi637,Ejercicio1,0,42,0,6,0,10,0,5,0,2
+untitled2,pl.session5mi637,TestDiagonales,0,79,0,6,0,15,0,6,0,3
